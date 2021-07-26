@@ -1,4 +1,4 @@
-# calculadora
+# Calculadora
 
 Esta es una Web/App donde podrás hacer tus calculos, ya que se trata de una calculadora realizada con 
 - JavaScript 
