@@ -4,6 +4,10 @@ Esta es una Web/App donde podrás hacer tus calculos, ya que se trata de una cal
 - JavaScript 
 - CSS
 
+![Captura](https://user-images.githubusercontent.com/32551746/126970365-b1f476b9-4125-450c-8f5c-b214d01669e1.JPG)
+
+---
+
 <div align="center">Donde me puedes encontrar:</div>
 
 :earth_africa: Portafolios **[Portafolios](https://jairosanchezb94.github.io/Portafolio-2/)**
